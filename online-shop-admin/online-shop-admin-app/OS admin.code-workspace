@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "OS admin",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
